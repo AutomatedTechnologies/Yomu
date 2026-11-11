@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Yomu — https://github.com/sendyhalim/Yomu
-- **Original authors:** Copyright (c) 2016 Sendy Halim <sendyhalim93@gmail.com>; The above copyright notice and this permission notice shall be; IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+- **Original authors:** Copyright (c) 2016 Sendy Halim <sendyhalim93@gmail.com>
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 1a23a0fbf54bb93548b2c2b5d86b221bb179cde1 (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-08
